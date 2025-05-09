@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**I am RAHUL** ✨ _FULL STOCK DEVELOPER_ ✨ <br>
+**I am RAHUL** ✨ _FULL STOCK DEVELOPER_ ✨ </br>
 
 Here are some ideas to get you started:
 
