@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Rahul-Kudari/Rahul-Kudari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am RAHUL** ✨ _FULL STOCK DEVELOPER_ ✨ 
 
 Here are some ideas to get you started:
 
