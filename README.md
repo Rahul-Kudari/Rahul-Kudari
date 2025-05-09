@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-
-## **I am RAHUL** ✨ _FULL STACK DEVELOPER_ ✨ 
+<h1 text-align="center">
+## **I am RAHUL** ✨ _FULL STACK DEVELOPER_ ✨ </h1>
 
 - 🔭 I’m currently doing java full stack in jspider on ...
 - 🌱 I’m currently learning ...
