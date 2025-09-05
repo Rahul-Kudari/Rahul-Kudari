@@ -8,7 +8,7 @@
 - 🛠️ I’m building full stack projects with Java, HTML/CSS, and JS.
 - 🤝 Looking to collaborate on web applications and UI design.
 - 💬 Ask me about: Java design patterns, frontend validation, modern web aesthetics.
-- 📫 How to h me: [your email], LinkedIn, or GitHub Issues.
+- 📫 How to contact me: rahulkudari7@gmail.com, LinkedIn, or GitHub Issues.
 - 🎉 Fun fact: I enjoy blending creativity with code—designing sites that feel alive.
 
 
