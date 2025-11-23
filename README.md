@@ -1,7 +1,7 @@
 ## Hi there 👋👋
 
 
-## **I am RAHUL** ✨ _FULL STACK DEVELOPER_ ✨
+**I am RAHUL** ✨ _FULL STACK DEVELOPER_ ✨
 
 
 - ✅ I’m currently searching for a development role — open to both frontend and backend opportunities.
