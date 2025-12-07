@@ -10,6 +10,7 @@
 - 💬 Ask me about: Java design patterns, frontend validation, modern web aesthetics.
 - 📫 How to contact me: rahulkudari7@gmail.com, LinkedIn or GitHub Issues.
 - 🎉 Fun fact: I enjoy blending creativity with code—designing sites that feel alive.
+- 🧠 make use of it when you think you dont have it.
 
 
 ### ⚒️ Tech Stack:
