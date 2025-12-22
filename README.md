@@ -1,4 +1,4 @@
-## Hi there 👋👋
+## Hi there 👋
 
 
 **I am RAHUL** ✨ _FULL STACK DEVELOPER_ ✨
