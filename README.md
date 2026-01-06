@@ -2,9 +2,13 @@
 
 
 **I am RAHUL** ✨ _FULL STACK DEVELOPER_ ✨
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkudari7&show_icons=true&theme=radical)
-
-
+I possess a strong development foundation and a proactive 
+approach to skill expansion beyond traditional coursework. My 
+passion is translating theoretical knowledge into impactful real- 
+world applications. Eager for diverse professional experiences 
+across various industries. I look forward to contribute and make a 
+remarkable impact on society and the organization by utilizing my 
+expertise.
 
 ### ⚒️ Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
