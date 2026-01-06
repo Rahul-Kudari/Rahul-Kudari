@@ -2,15 +2,8 @@
 
 
 **I am RAHUL** ✨ _FULL STACK DEVELOPER_ ✨
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkudari7&show_icons=true&theme=radical)
 
-
-- ✅ I’m currently searching for a development role — open to both frontend and backend opportunities.
-- 🛠️ I’m building full stack projects with Java, HTML/CSS, and JS.
-- 🤝 Looking to collaborate on web applications and UI design.
-- 💬 Ask me about: Java design patterns, frontend validation, modern web aesthetics.
-- 📫 How to contact me: rahulkudari7@gmail.com, LinkedIn or GitHub Issues.
-- 🎉 Fun fact: I enjoy blending creativity with code—designing sites that feel alive.
-- 🧠 make use of it when you think you dont have it.
 
 
 ### ⚒️ Tech Stack:
